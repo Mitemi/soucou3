@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Lisotem",
+        "text": "Lorem Ipsum Dolores Idem",
+        "title_FR": "Nom",
+        "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
+        "portrait1": "lisotem",
+        "portrait2": "cercey",
+        "background": "background",
+        "chapter": "1-1-1"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Lorem Ipsum Dolores Idem",
+        "title_FR": "Nom",
+        "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
+        "background": "background",
+        "chapter": "1-1-2"
+    }
+]
