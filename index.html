@@ -17,4 +17,17 @@
     </div>
 </body>
 
+<script>
+    const play = document.getElementById('play')
+    const settings = document.getElementById('settings')
+
+    if (localStorage.lang == "fr") {
+        play.textContent = "Jouer"
+        settings.textContent = "Paramètres"
+    } else if (localStorage.lang == "en") {
+        play.textContent = "Play"
+        settings.textContent = "Settings"
+    }
+</script>
+
 </html>

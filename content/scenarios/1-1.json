@@ -4,10 +4,11 @@
         "text": "Lorem Ipsum Dolores Idem",
         "title_FR": "Nom",
         "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
-        "portrait1": "lisotem",
-        "portrait2": "cercey",
+        "portrait1": "url('../assets/portraits/portrait_cercey.png')",
+        "portrait2": "url('../assets/portraits/portrait_cercey.png')",
         "background": "background",
-        "chapter": "1-1-1"
+        "chapter": "1-1-1",
+        "endNode": false
     },
     {
         "title": "Lisotem",
@@ -15,6 +16,12 @@
         "title_FR": "Nom",
         "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
         "background": "background",
-        "chapter": "1-1-2"
+        "chapter": "1-1-2",
+        "choice": [
+            {
+                "text": "77",
+                "src": "1-2.json"
+            }
+        ]
     }
 ]

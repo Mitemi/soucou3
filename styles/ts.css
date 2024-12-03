@@ -78,13 +78,25 @@ a:hover {
 /* Settings */
 
 #lang {
-    padding: 0;
+    padding: 25px;
 }
 
 .contain-lang {
     display: flex;
 }
 
-.flag {
+#flag {
+    display: flex;
+    align-self: center;
     background-color: red;
+    width: 10rem;
+    aspect-ratio: 6/4;
+}
+
+#fullscreen {
+    padding: 25px;
+}
+
+#return {
+    padding: 25px;
 }
