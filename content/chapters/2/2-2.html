@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soucou III</title>
+    <link rel="stylesheet" href="../../../styles/vn.css">
+    <meta id="vnparams" branch="2-2">
+    <script type="module" src="../../../src/vn.js" defer></script>
+</head>
+
+<body>
+    <div class="vn-box">
+        <div class="background"></div>
+        <div class="choice-box">
+            
+        </div>
+        <div class="pause-menu">
+            <div class="button" id="resume">Resume</div>
+            <div class="button" id="settings"><a href="../content/settings.html">Settings</a></div>
+            <div class="button" id="goBack"><a href="../index.html">Go Back</a></div>
+        </div>
+        <div class="text-box">
+            <div class="title-box">
+                <p class="title-text"></p>
+            </div>
+            <div class="content-box">
+                <p class="content-text"></p>
+            </div>
+        </div>
+        <div class="portraits">
+            <div class="portrait1"></div>
+            <div class="portrait2"></div>
+        </div>
+        <div class="menu">
+            <div class="backButton">↵</div>
+        </div>
+    </div>
+</body>
+
+<script>
+    const alvart = document.getElementById("Alvart");
+    const pain = document.getElementById("Pain");
+    const cherminon = document.getElementById("Cherminon");
+    const lusin = document.getElementById("Lusin");
+
+    alvart.addEventListener('click', () => location = ('./chapters/2/2-1.html'));
+    pain.addEventListener('click', () => location = ('./chapters/1-2.html'));
+    cherminon.addEventListener('click', () => location = ('./chapters/1-2.html'));
+    lusin.addEventListener('click', () => location = ('./chapters/1-2.html'));
+</script>
+
+</html>

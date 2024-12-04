@@ -6,7 +6,7 @@ play.addEventListener('click', () => clickPlay());
 settings.addEventListener('click', () => clickSettings());
 
 function clickPlay() {
-    location = ('../content/1-1.html');
+    location = ('../content/chapters/1/1-1.html');
 }
 
 function clickSettings() {

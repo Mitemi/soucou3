@@ -1,27 +1,105 @@
 [
     {
-        "title": "Lisotem",
-        "text": "Lorem Ipsum Dolores Idem",
-        "title_FR": "Nom",
-        "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
-        "portrait1": "url('../assets/portraits/portrait_cercey.png')",
-        "portrait2": "url('../assets/portraits/portrait_cercey.png')",
+        "title": "",
+        "text": "Unknown mansion, Highlands.",
+        "title_FR": "",
+        "text_FR": "Manoir inconnu, Terres hautes.",
+        "portrait1": "",
+        "portrait2": "",
         "background": "background",
-        "chapter": "1-1-1",
-        "endNode": false
+        "endNode": "false"
+    },
+    {
+        "text": "An impeccably-dressed gentleman is standing before a great polished wooden door.",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
     },
     {
         "title": "Lisotem",
-        "text": "Lorem Ipsum Dolores Idem",
-        "title_FR": "Nom",
-        "text_FR": "Lorem Ipsum Dolores Idem mais en francais",
-        "background": "background",
-        "chapter": "1-1-2",
-        "choice": [
-            {
-                "text": "77",
-                "src": "1-2.json"
-            }
-        ]
+        "text": "Is this the correct house?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "",
+        "text": "The majestic and ornate doors open to reveal a refined gray-clad young man and his servant.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "Ah, I see you've finally arrived.",
+        "title_FR": "Le Comte",
+        "text_FR": ""
+    },
+    {
+        "title": "Mysterious Maid",
+        "text": "Sir, you must have your invitation with you, right?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Invitation?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "⠀",
+        "text": "Lisotem runs through his pockets, as if to find something, and miraculously finds a letter that wasn't in existence prior.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "text": "The too-perfect Earl and his companion sidestep and face the banquet crowd, allowing Lisotem entry.",
+        "text_FR": "",
+        "portrait2": ""
+    },
+    {
+        "text": "Lisotem scans the crowd. To his great surprise, he finds three familiar figures among the guests.",
+        "text_FR": "",
+        "background": "background"
+    },
+    {
+        "text": "Cherminon. One of the grandmasters of a certain religious military order.",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "text": "Pain. Whatever he is.",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_pain.png')"
+    },
+    {
+        "text": "Lusin? The Goddess on the moon?",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "text": "This woman standing alone in her corner vaguely emits a divine aura. She has a certain ressemblance with the Moon Church's goddess. Lisotem can't be sure of it, but his guesses are often accurate.",
+        "text_FR": ""
+    },
+    {
+        "text": "After all, himself, Cherminon and Pain can be considered demigods.",
+        "text_FR": ""
+    },
+    {
+        "text": "Another being in the hall attracts his attention. She may be dressed like a fairly ordinary local aristocrat, but Lisotem has a hunch that she will be much more than that.",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "text": "Who do you decide to first interact with?",
+        "text_FR": "",
+        "portrait2": ""
+    },
+    {
+        "title": "",
+        "text": "",
+        "title_FR": "",
+        "text_FR": "",
+        "endNode": "true"
     }
 ]

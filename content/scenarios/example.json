@@ -1,0 +1,22 @@
+[
+    {
+        "title": "",
+        "text": "",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "",
+        "portrait2": "",
+        "background": "",
+        "endNode": "false"
+    },
+    {
+        "title": "",
+        "text": "",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_cercey.png')",
+        "background": "",
+        "endNode": "true"
+    }
+]
