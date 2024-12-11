@@ -1,12 +1,149 @@
 [
     {
+        "title": "The Earl",
+        "text": "It is better to be in a group under these circumstances than being alone.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')",
+        "background": "background",
+        "endNode": "false"
+    },
+    {
+        "title": "Alvart",
+        "text": "Hey, do you need a partner to investigate?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Sure, although where would there be to investigate other than this room?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "I guess that the only point of splitting up would be to pinpoint the murderer. And if they don't act again, then it's deterrence.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "Hasn't the Earl been a quite unrational a few minutes ago?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "What even is the Earl's name anyways?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "What?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "The Earl. He must have a name, no? Did this entire mansion just appear overnight and none of the local nobles noticed?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "That.. Never crossed my mind.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "I think I may have vague recollections of him from my previous voyages. That maid who's close to him, isn't her name Novana?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "Although, out of everyone, only one persono didn't group with someone else.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
         "title": "",
-        "text": "Lisotem approaches the unknown female aristocrat.",
+        "text": "Alvart glances at the figure of Lusin in a corner of the hallway.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "",
+        "text": "Beyond Lisotem's expectations, Alvart surprises him by suddenly raising her firearm against Lusin.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "He can now take a much closer look at the weapon. It seems awfully large for a handgun, with possible mod-",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "A large explosion shakes the mansion.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "There is now an impressive door-sized hole in the wall behind Lusin. Alvart's gun is still hot. Lisotem estimates that this was a charged shot of severe proportions..",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "Lusin stands completely unharmed, now looking towards Lisotem and Alvart.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "",
+        "text": "While this was happening, Lisotem's mind singled out the only person that was currently not present at this moment, or when everyone witnessed the corpse.",
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')",
-        "background": "background",
-        "endNode": "false"
+        "endNode": "true"
     }
 ]

@@ -12,19 +12,29 @@
 <body>
     <div class="contain">
         <div id="title"></div>
+        <div id="credits"></div>
         <div id="restart"></div>
     </div>
 </body>
 
 <script>
-    const play = document.getElementById('title');
-    const settings = document.getElementById('restart');
+    const title = document.getElementById('title');
+    const credits = document.getElementById('credits');
+    const restart = document.getElementById('restart');
+
+    credits.addEventListener('click', () => clickRestart());
+
+    function clickRestart() {
+        location = ('../credits.html');
+    }
 
     if (localStorage.lang == "fr") {
-        title.textContent = "Fin";
+        title.textContent = "Fin 2";
+        credits.textContent = "Crédits";
         restart.textContent = "Recommencer";
     } else if (localStorage.lang == "en") {
-        title.textContent = "The End";
+        title.textContent = "Second Ending";
+        credits.textContent = "Credits";
         restart.textContent = "Restart";
     }
 </script>

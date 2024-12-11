@@ -1,12 +1,47 @@
 [
     {
-        "title": "",
-        "text": "Lisotem approaches Cherminon.",
+        "title": "The Earl",
+        "text": "It is better to be in a group under these circumstances than being alone.",
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
-        "portrait2": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "Cherminon",
+        "text": "Hey, do you need a partner to investigate?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Sure.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Cherminon",
+        "text": "I may not be one of the church's inquisitors or detectives, but I can easily deduce who seems the most suspicious here. You can too, right?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Of course.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "Of course.",
+        "title_FR": "",
+        "text_FR": "",
+        "endNode": "true"
     }
 ]

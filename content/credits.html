@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soucou III</title>
+    <link rel="stylesheet" href="../styles/ts.css">
+
+    <meta id="vnparams" branch="1-1">
+    <script type="module" src="../src/st.js" defer></script>
+</head>
+
+<body
+    style="background-image: url(../assets/background/soucouIII.png); background-size: contain; background-repeat: no-repeat; background-position: center;">
+    <div class="button" id="return" style="position: absolute; bottom: 0; left: 0;"><a href="../index.html"></a>
+    </div>
+</body>
+
+<script>
+    const goBack = document.getElementById("return");
+    goBack.addEventListener('click', () => location = ('../index.html'));
+
+    if (localStorage.lang == "fr") {
+        goBack.textContent = "Retour";
+    } else if (localStorage.lang == "en") {
+        goBack.textContent = "Return";
+    }
+</script>
+
+</html>

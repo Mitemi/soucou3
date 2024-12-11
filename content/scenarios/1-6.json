@@ -1,12 +1,83 @@
 [
     {
         "title": "",
-        "text": "The guests enter the room.",
+        "text": "The guests prepare for battle.",
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "",
+        "text": "Alvart uses her marksmanship to snipe multiple incoming hostiles.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "Cherminon uses his holy protection magic from the Sun Church to support everyone.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "Lusin stands back looks at the other guests.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "Lusin",
+        "text": "Everyone, please evacuate. I will handle them myself.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
+    },
+    {
+        "title": "",
+        "text": "Lusin glances at the moon.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "Wait, no!",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "Everyone witnesses orbital strikes of divine light from the moon obliterate the enemy positions.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "The Earl and his forces are forced to retreat.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": ""
+    },
+    {
+        "title": "",
+        "text": "The Earl and his forces are forced to retreat.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "",
+        "endNode": "true"
     }
 ]

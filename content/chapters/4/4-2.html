@@ -14,7 +14,7 @@
     <div class="vn-box">
         <div class="background"></div>
         <div class="choice-box">
-            
+            <div class="choice-button" id="Confront"><a href="../1/1-4.html"></a></div>
         </div>
         <div class="pause-menu">
             <div class="button" id="resume">Resume</div>
@@ -40,15 +40,14 @@
 </body>
 
 <script>
-    const alvart = document.getElementById("Alvart");
-    const pain = document.getElementById("Pain");
-    const cherminon = document.getElementById("Cherminon");
-    const lusin = document.getElementById("Lusin");
+    const confront = document.getElementById("Confront");
+    confront.addEventListener('click', () => location = ('../1/1-4.html'));
 
-    alvart.addEventListener('click', () => location = ('./chapters/2/2-1.html'));
-    pain.addEventListener('click', () => location = ('./chapters/1-2.html'));
-    cherminon.addEventListener('click', () => location = ('./chapters/1-2.html'));
-    lusin.addEventListener('click', () => location = ('./chapters/1-2.html'));
+    if (localStorage.lang == "fr") {
+        confront.textContent = "Confronter le Comte";
+    } else if (localStorage.lang == "en") {
+        confront.textContent = "Confront the Earl.";
+    }
 </script>
 
 </html>

@@ -1,12 +1,61 @@
 [
     {
         "title": "",
-        "text": "The guests enter the room.",
+        "text": "The guests prepare for battle.",
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "",
+        "text": "Alvart uses her marksmanship to snipe multiple incoming hostiles.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "Cherminon uses his holy protection magic from the Sun Church to support everyone.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "",
+        "text": "Lusin stands back, menacingly.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "",
+        "text": "Lisotem corrupts most of the artillery from a far using his own powers.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": ""
+    },
+    {
+        "title": "",
+        "text": "The Earl and his forces are forced to retreat.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": ""
+    },
+    {
+        "title": "",
+        "text": "The Earl and his forces are forced to retreat.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "",
+        "endNode": "true"
     }
 ]

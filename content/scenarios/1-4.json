@@ -8,5 +8,160 @@
         "portrait2": "",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "",
+        "text": "You approach the obvious and most likely culprit of these events.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "The Earl stands besides Novana.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "Ah, have you found something?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Now, Earl, there seems to be only one person here with unknown motives and perfect knowledge of the manor's grounds.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "And that person is you!",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "...",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "Novana, at her employer's side, when confronted this early, poorly conceals her daggers hidden within her dress.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "",
+        "text": "Seeing no denial, Cherminon seizes the initiative.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "title": "",
+        "text": "Cherminon unsheathes his rapier and heads towards the Earl.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "title": "",
+        "text": "Novana stands between the Earl and Cherminon.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "",
+        "text": "To her surprise, Cherminon doesn't hesitate and attempts to strike her down.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "",
+        "text": "Novana turns illusory and retreats through the wall behind her.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
+    },
+    {
+        "title": "Alvart",
+        "text": "Damn it, was she a ghost?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
+    },
+    {
+        "title": "Cherminon",
+        "text": "A wraith seems more likely.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Earl, isn't your plan a bit poorly thought of?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "...",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "The Earl's smile falls off his face.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "The Earl",
+        "text": "Cercey, orders to fire all Fireweed artillery confirmed.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "What?!",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
+    },
+    {
+        "title": "",
+        "text": "Lisotem observes through the window and witnesses multiple pieces of artillery stationed outside the manor.",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": ""
+    },
+    {
+        "title": "",
+        "text": "Lisotem recognizes a certain someone he had to defeat before, commanding the artillery..",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cercey.png')"
+    },
+    {
+        "title": "",
+        "text": "Lisotem recognizes a certain someone he had to defeat before, commanding the artillery..",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait2": "url('../../../assets/portraits/portrait_cercey.png')",
+        "endNode": "true"
     }
 ]

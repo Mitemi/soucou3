@@ -8,5 +8,32 @@
         "portrait2": "",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "Lisotem",
+        "text": "Who are you, standing in a corner like this?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "Lusin",
+        "text": "I am Lusin.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "...",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "...",
+        "title_FR": "",
+        "text_FR": "",
+        "endNode": "true"
     }
 ]

@@ -14,10 +14,7 @@
     <div class="vn-box">
         <div class="background"></div>
         <div class="choice-box">
-            <div class="choice-button" id="Alvart"><a href="../2/2-1.html">The unknown female aristocrat</a></div>
-            <div class="choice-button" id="Pain"><a href="../3/3-1.html">Pain</a></div>
-            <div class="choice-button" id="Cherminon"><a href="../4/4-1.html">Cherminon</a></div>
-            <div class="choice-button" id="Lusin"><a href="../5/5-1.html">Lusin?</a></div>
+            <div class="choice-button" id="Battle"></div>
         </div>
         <div class="pause-menu">
             <div class="button" id="resume">Resume</div>
@@ -41,28 +38,23 @@
         </div>
     </div>
 </body>
-
 <script>
-    const alvart = document.getElementById("Alvart");
-    const pain = document.getElementById("Pain");
-    const cherminon = document.getElementById("Cherminon");
-    const lusin = document.getElementById("Lusin");
-
-    alvart.addEventListener('click', () => location = ('../2/2-1.html'));
-    pain.addEventListener('click', () => location = ('../3/3-1.html'));
-    cherminon.addEventListener('click', () => location = ('../4/4-1.html'));
-    lusin.addEventListener('click', () => location = ('../5/5-1.html'));
+    const battle = document.getElementById("Battle");
 
     if (localStorage.lang == "fr") {
-        alvart.textContent = "L'aristocrate inconnue"
-        pain.textContent = "Pain"
-        cherminon.textContent = "Cherminon"
-        lusin.textContent = "Lusin"
+        battle.textContent = "Affrontez le Comte."
     } else if (localStorage.lang == "en") {
-        alvart.textContent = "The unknown female aristocrat"
-        pain.textContent = "Pain"
-        cherminon.textContent = "Cherminon"
-        lusin.textContent = "Lusin"
+        battle.textContent = "Face the Earl."
+    }
+
+    let branch = localStorage.getItem('branch');
+    console.log('Branch:', localStorage.getItem('branch'));
+
+
+    if (branch == 5) {
+        battle.addEventListener('click', () => {location = `../1/1-6.html`;});
+    } else {
+        battle.addEventListener('click', () => {location = `../1/1-5.html`;});
     }
 </script>
 

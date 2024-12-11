@@ -14,8 +14,8 @@
     <div class="vn-box">
         <div class="background"></div>
         <div class="choice-box">
-            <div class="choice-button" id="choice1"><a href="./2-2.html"></a></div>
-            <div class="choice-button" id="choice2"><a href="./2-2.html"></a></div>
+            <div class="choice-button" id="choice1"><a href="../1/1-4.html"></a></div>
+            <div class="choice-button" id="choice2"><a href="../1/1-4.html"></a></div>
         </div>
         <div class="pause-menu">
             <div class="button" id="resume">Resume</div>
@@ -44,15 +44,15 @@
     const choice1 = document.getElementById("choice1");
     const choice2 = document.getElementById("choice2");
 
-    choice1.addEventListener('click', () => location = ('./2-2.html'));
-    choice2.addEventListener('click', () => location = ('./2-2.html'));
+    choice1.addEventListener('click', () => location = ('../1/1-4.html'));
+    choice2.addEventListener('click', () => location = ('../1/1-4.html'));
 
     if (localStorage.lang == "fr") {
-        choice1.textContent = "Qui sait?";
-        choice2.textContent = "La poudre à canon est l’avenir de la guerre.";
+        choice1.textContent = "Le Comte";
+        choice2.textContent = "Novana";
     } else if (localStorage.lang == "en") {
-        choice1.textContent = "Who knows?";
-        choice2.textContent = "But of course, gunpowder is the future of warfare.";
+        choice1.textContent = "The Earl";
+        choice2.textContent = "Novana";
     }
 </script>
 

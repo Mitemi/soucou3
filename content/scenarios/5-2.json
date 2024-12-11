@@ -1,12 +1,75 @@
 [
     {
-        "title": "",
-        "text": "Lisotem approaches who he believes to be Lusin.",
+        "title": "The Earl",
+        "text": "It is better to be in a group under these circumstances than being alone.",
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
-        "portrait2": "",
+        "portrait2": "url('../../../assets/portraits/portrait_earl.png')",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "Lusin",
+        "text": "Hey, do you need a partner to investigate?",
+        "title_FR": "",
+        "text_FR": "",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
+    },
+    {
+        "title": "Lisotem",
+        "text": "...",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lusin",
+        "text": "Why do you think we were brought here?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "You think the Earl is suspicious?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lusin",
+        "text": "I can sense that you carry a precious and holy object related to the Sun God from your previous adventures.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lusin",
+        "text": "And so do I.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "",
+        "text": "Lusin reaches into nothingness and opens up a pocket through space and time. She takes out a bloodied, crystalized heart.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "So you really are Lusin, the Goddess on the moon. Not just a lookalike.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "You think we may be targeted for our relics?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lusin",
+        "text": "My guess is that they called all of those whom they suspected may be in possession of the relics and are intending to narrow it down.",
+        "title_FR": "",
+        "text_FR": "",
+        "endNode": "true"
     }
 ]
