@@ -76,6 +76,7 @@ body {
     border-width: 10px;
     border-radius: 10px;
     visibility: hidden;
+    opacity: 0;
 }
 
 .menu {
@@ -97,6 +98,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 80%;
     height: 40%;
+    opacity: 0.98;
 }
 
 .portraits {

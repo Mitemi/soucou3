@@ -5,8 +5,75 @@
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
-        "portrait2": "",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')",
         "background": "background",
         "endNode": "false"
+    },
+    {
+        "title": "Lisotem",
+        "text": "And who may you be?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Alvart",
+        "text": "Alvart of Alquart, future archduchess of the Alquart realm.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "What an interesting name.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "",
+        "text": "Lisotem inspects her appearance briefly.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "",
+        "text": "The one thing to catch Lisotem's attention is the revolver holster strapped to her thigh.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "You know, you're the first lady I've seen with this kind of self-defence.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Alvart",
+        "text": "And it can't be used for offence? What's wrong with a woman having a gun?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "It's more about the fact that I have yet to see a single person use gunpowder technology until now.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Alvart",
+        "text": "Everyone has used magic for centuries at this point. With the advancements in the world, why not go for a change?",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Lisotem",
+        "text": "I doubt your small handgun would put a dent in someone's defence like Cherminon over there.",
+        "title_FR": "",
+        "text_FR": ""
+    },
+    {
+        "title": "Alvart",
+        "text": "You severly underestimate firearms.",
+        "title_FR": "",
+        "text_FR": "",
+        "endNode": "true"
     }
 ]

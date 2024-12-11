@@ -5,7 +5,7 @@
         "title_FR": "",
         "text_FR": "",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
-        "portrait2": "",
+        "portrait2": "url('../../../assets/portraits/portrait_alvart.png')",
         "background": "background",
         "endNode": "false"
     }

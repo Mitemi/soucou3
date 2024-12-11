@@ -35,6 +35,30 @@ body {
     height: 90vh;
 }
 
+#title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: absolute;
+    top: 25px;
+    background-color: var(--gray);
+    color: var(--white);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    width: 30%;
+    height: 8%;
+
+    padding: 30px 5px 25px 5px;
+    margin: 25px;
+    border-style: solid;
+    border-color: var(--gray);
+    border-width: 4px;
+    border-radius: 4px;
+    box-shadow: 0.7px 1px 1.2px rgba(0, 0, 0, 0.09), 0.2px 0.2px 3px rgba(0, 0, 0, 0.129), 0.2px 0.2px 6px rgba(0, 0, 0, 0.161), 1.4px 1.8px 12.4px rgba(0, 0, 0, 0.2), 7px 9px 34px rgba(0, 0, 0, 0.29);
+    user-select: none;
+}
+
 #restart {
     display: flex;
     justify-content: center;

@@ -1,6 +1,6 @@
-const play = document.getElementById('play')
-const settings = document.getElementById('settings')
-const lang = document.getElementById('lang')
+const play = document.getElementById('play');
+const settings = document.getElementById('settings');
+const lang = document.getElementById('lang');
 
 play.addEventListener('click', () => clickPlay());
 settings.addEventListener('click', () => clickSettings());

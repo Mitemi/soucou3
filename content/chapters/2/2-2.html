@@ -14,7 +14,8 @@
     <div class="vn-box">
         <div class="background"></div>
         <div class="choice-box">
-            
+            <div class="choice-button" id="choice1"><a href="./2-2.html"></a></div>
+            <div class="choice-button" id="choice2"><a href="./2-2.html"></a></div>
         </div>
         <div class="pause-menu">
             <div class="button" id="resume">Resume</div>
@@ -40,15 +41,19 @@
 </body>
 
 <script>
-    const alvart = document.getElementById("Alvart");
-    const pain = document.getElementById("Pain");
-    const cherminon = document.getElementById("Cherminon");
-    const lusin = document.getElementById("Lusin");
+    const choice1 = document.getElementById("choice1");
+    const choice2 = document.getElementById("choice2");
 
-    alvart.addEventListener('click', () => location = ('./chapters/2/2-1.html'));
-    pain.addEventListener('click', () => location = ('./chapters/1-2.html'));
-    cherminon.addEventListener('click', () => location = ('./chapters/1-2.html'));
-    lusin.addEventListener('click', () => location = ('./chapters/1-2.html'));
+    choice1.addEventListener('click', () => location = ('./2-2.html'));
+    choice2.addEventListener('click', () => location = ('./2-2.html'));
+
+    if (localStorage.lang == "fr") {
+        choice1.textContent = "Qui sait?";
+        choice2.textContent = "La poudre à canon est l’avenir de la guerre.";
+    } else if (localStorage.lang == "en") {
+        choice1.textContent = "Who knows?";
+        choice2.textContent = "But of course, gunpowder is the future of warfare.";
+    }
 </script>
 
 </html>

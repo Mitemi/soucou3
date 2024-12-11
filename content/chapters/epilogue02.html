@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soucou III</title>
+    <link rel="stylesheet" href="../../styles/ep.css">
+    <script type="module" src="../../src/ep.js" defer></script>
+</head>
+
+<body>
+    <div class="contain">
+        <div id="title"></div>
+        <div id="restart"></div>
+    </div>
+</body>
+
+<script>
+    const play = document.getElementById('title');
+    const settings = document.getElementById('restart');
+
+    if (localStorage.lang == "fr") {
+        title.textContent = "Fin";
+        restart.textContent = "Recommencer";
+    } else if (localStorage.lang == "en") {
+        title.textContent = "The End";
+        restart.textContent = "Restart";
+    }
+</script>
+
+</html>

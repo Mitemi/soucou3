@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Soucou III</title>
-    <link rel="stylesheet" href="../../styles/es2.css">
-    <script type="module" src="../../src/vn.js" defer></script>
+    <link rel="stylesheet" href="../../../styles/vn.css">
+    <meta id="vnparams" branch="1-6">
+    <script type="module" src="../../../src/vn.js" defer></script>
 </head>
 
 <body>
@@ -42,15 +43,26 @@
 </body>
 
 <script>
-    const play = document.getElementById('play')
-    const settings = document.getElementById('settings')
+    const alvart = document.getElementById("Alvart");
+    const pain = document.getElementById("Pain");
+    const cherminon = document.getElementById("Cherminon");
+    const lusin = document.getElementById("Lusin");
+
+    alvart.addEventListener('click', () => location = ('../2/2-1.html'));
+    pain.addEventListener('click', () => location = ('../3/3-1.html'));
+    cherminon.addEventListener('click', () => location = ('../4/4-1.html'));
+    lusin.addEventListener('click', () => location = ('../5/5-1.html'));
 
     if (localStorage.lang == "fr") {
-        play.textContent = "Jouer"
-        settings.textContent = "Paramètres"
+        alvart.textContent = "L'aristocrate inconnue"
+        pain.textContent = "Pain"
+        cherminon.textContent = "Cherminon"
+        lusin.textContent = "Lusin"
     } else if (localStorage.lang == "en") {
-        play.textContent = "Play"
-        settings.textContent = "Settings"
+        alvart.textContent = "The unknown female aristocrat"
+        pain.textContent = "Pain"
+        cherminon.textContent = "Cherminon"
+        lusin.textContent = "Lusin"
     }
 </script>
 
