@@ -3,17 +3,17 @@
         "title": "",
         "text": "The guests prepare for battle.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Les invités se préparent au combat.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
-        "background": "background",
+        "background": "url('../../../assets/background/roofmoon_px.png')",
         "endNode": "false"
     },
     {
         "title": "",
         "text": "Alvart uses her marksmanship to snipe multiple incoming hostiles.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Alvart utilise son adresse au tir pour abattre plusieurs ennemis approchants.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
     },
@@ -21,7 +21,7 @@
         "title": "",
         "text": "Cherminon uses his holy protection magic from the Sun Church to support everyone.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Cherminon utilise sa magie de protection sacrée de l'Église du Soleil pour soutenir tout le monde.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
     },
@@ -29,29 +29,30 @@
         "title": "",
         "text": "Lusin stands back looks at the other guests.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Lusin recule et regarde les autres invités.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
     },
     {
         "title": "Lusin",
         "text": "Everyone, please evacuate. I will handle them myself.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lusin",
+        "text_FR": "Tout le monde, veuillez évacuer. Je vais m'en occuper moi-même.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
     },
     {
         "title": "",
         "text": "Lusin glances at the moon.",
         "title_FR": "",
-        "text_FR": "",
-        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
+        "text_FR": "Lusin regarde la lune d'un coup d'œil.",
+        "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
+        "background": "url('../../../assets/background/mountainmoon_px.png')"
     },
     {
         "title": "The Earl",
         "text": "Wait, no!",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Le Comte",
+        "text_FR": "Attendez, non !",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
@@ -59,7 +60,7 @@
         "title": "",
         "text": "Everyone witnesses orbital strikes of divine light from the moon obliterate the enemy positions.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Tout le monde assiste à des frappes orbitales de lumière divine depuis la lune qui détruisent les positions ennemies.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
@@ -67,7 +68,7 @@
         "title": "",
         "text": "The Earl and his forces are forced to retreat.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Le Comte et ses forces sont contraints de battre en retraite.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": ""
     },
@@ -75,7 +76,7 @@
         "title": "",
         "text": "The Earl and his forces are forced to retreat.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Le Comte et ses forces sont contraints de battre en retraite.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
         "endNode": "true"

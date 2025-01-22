@@ -15,11 +15,13 @@
             <h1>Soucou III</h1>
         </div>
         <div class="button" id="play"><a href="./content/chapters/1/1-1.html">Jouer</a></div>
-        <div class="button" id="settings"><a href="./content/settings.html">Settings</a></div>
+        <div class="button" id="settings"><a href="./content/settings.html">Paramètres</a></div>
     </div>
 </body>
 
 <script>
+    if (!localStorage.lang) localStorage.setItem('lang', 'fr');
+
     const play = document.getElementById('play');
     const settings = document.getElementById('settings');
 

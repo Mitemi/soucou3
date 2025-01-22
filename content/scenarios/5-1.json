@@ -3,37 +3,37 @@
         "title": "",
         "text": "Lisotem approaches who he believes to be Lusin.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Lisotem s'approche de celle qu'il croit être Lusin.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
-        "background": "background",
+        "background": "url('../../../assets/background/staircase_px.png')",
         "endNode": "false"
     },
     {
         "title": "Lisotem",
         "text": "Who are you, standing in a corner like this?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "Qui êtes-vous, debout dans un coin comme ça ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
     },
     {
         "title": "Lusin",
         "text": "I am Lusin.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lusin",
+        "text_FR": "Je suis Lusin."
     },
     {
         "title": "Lisotem",
         "text": "...",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "..."
     },
     {
         "title": "Lisotem",
         "text": "...",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "...",
         "endNode": "true"
     }
 ]

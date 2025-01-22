@@ -1,4 +1,4 @@
-/* Majors */
+/* Majeurs */
 
 :root {
     --white: rgb(255, 255, 255);
@@ -119,9 +119,11 @@ body {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.545);
     background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
 }
 
-/* Portraits Minors */
+/* Portraits Mineurs */
 
 .portrait1 {
     position: relative;
@@ -142,7 +144,7 @@ body {
 }
 
 
-/* Text Box Minors */
+/* Text Box */
 
 .title-box {
     display: flex;
@@ -183,7 +185,7 @@ body {
     user-select: none;
 }
 
-/* Menu Minors */
+/* Menu Mineurs */
 
 .backButton {
     background-color: var(--gray);

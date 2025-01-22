@@ -6,93 +6,93 @@
         "text_FR": "Manoir inconnu, Terres hautes.",
         "portrait1": "",
         "portrait2": "",
-        "background": "background",
+        "background": "url('../../../assets/background/outside_door_px.png')",
         "endNode": "false"
     },
     {
         "text": "An impeccably-dressed gentleman is standing before a great polished wooden door.",
-        "text_FR": "",
+        "text_FR": "Un gentleman impeccablement habillé se tient devant une grande porte en bois poli.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')"
     },
     {
         "title": "Lisotem",
         "text": "Is this the correct house?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Est-ce la bonne maison ?"
     },
     {
         "title": "",
         "text": "The majestic and ornate doors open to reveal a refined gray-clad young man and his servant.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Les portes majestueuses et ornées s'ouvrent pour révéler un jeune homme raffié vêtu de gris et son serviteur.",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
     {
         "title": "The Earl",
         "text": "Ah, I see you've finally arrived.",
         "title_FR": "Le Comte",
-        "text_FR": ""
+        "text_FR": "Ah, je vois que vous êtes enfin arrivé."
     },
     {
         "title": "Mysterious Maid",
         "text": "Sir, you must have your invitation with you, right?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Femme de chambre mystérieuse",
+        "text_FR": "Monsieur, vous avez bien votre invitation avec vous, n'est-ce pas ?",
         "portrait2": "url('../../../assets/portraits/portrait_novana.png')"
     },
     {
         "title": "Lisotem",
         "text": "Invitation?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Invitation ?"
     },
     {
         "title": "⠀",
         "text": "Lisotem runs through his pockets, as if to find something, and miraculously finds a letter that wasn't in existence prior.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "⠀",
+        "text_FR": "Lisotem fouille dans ses poches, comme pour chercher quelque chose, et trouve miraculeusement une lettre qui n'existait pas auparavant."
     },
     {
         "text": "The too-perfect Earl and his companion sidestep and face the banquet crowd, allowing Lisotem entry.",
-        "text_FR": "",
+        "text_FR": "Le Comte trop parfait et son compagnon s'écartent et se tournent vers la foule du banquet, permettant à Lisotem d'entrer.",
         "portrait2": ""
     },
     {
         "text": "Lisotem scans the crowd. To his great surprise, he finds three familiar figures among the guests.",
-        "text_FR": "",
-        "background": "background"
+        "text_FR": "Lisotem scrute la foule. À sa grande surprise, il reconnaît trois figures familières parmi les invités.",
+        "background": "url('../../../assets/background/staircase_px.png')"
     },
     {
         "text": "Cherminon. One of the grandmasters of a certain religious military order.",
-        "text_FR": "",
+        "text_FR": "Cherminon. L'un des grands maîtres d'un certain ordre religieux militaire.",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "text": "Pain. Whatever he is.",
-        "text_FR": "",
+        "text_FR": "Pain. Peu importe ce qu'il est.",
         "portrait2": "url('../../../assets/portraits/portrait_pain.png')"
     },
     {
         "text": "Lusin? The Goddess on the moon?",
-        "text_FR": "",
+        "text_FR": "Lusin ? La Déesse sur la lune ?",
         "portrait2": "url('../../../assets/portraits/portrait_lusin.png')"
     },
     {
         "text": "This woman standing alone in her corner vaguely emits a divine aura. She has a certain ressemblance with the Moon Church's goddess. Lisotem can't be sure of it, but his guesses are often accurate.",
-        "text_FR": ""
+        "text_FR": "Cette femme, debout seule dans son coin, émet vaguement une aura divine. Elle a une certaine ressemblance avec la déesse de l'Église de la Lune. Lisotem n'en est pas sûr, mais ses intuitions sont souvent justes."
     },
     {
         "text": "After all, himself, Cherminon and Pain can be considered demigods.",
-        "text_FR": ""
+        "text_FR": "Après tout, lui-même, Cherminon et Pain peuvent être considérés comme des demi-dieux."
     },
     {
         "text": "Another being in the hall attracts his attention. She may be dressed like a fairly ordinary local aristocrat, but Lisotem has a hunch that she will be much more than that.",
-        "text_FR": "",
+        "text_FR": "Un autre être dans la salle attire son attention. Elle est peut-être habillée comme une aristocrate locale assez ordinaire, mais Lisotem pressent qu'elle sera bien plus que cela.",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
     },
     {
         "text": "Who do you decide to first interact with?",
-        "text_FR": "",
+        "text_FR": "Avec qui décidez-vous d'interagir en premier ?",
         "portrait2": ""
     },
     {

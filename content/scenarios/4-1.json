@@ -3,45 +3,45 @@
         "title": "",
         "text": "Lisotem approaches Cherminon.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Lisotem s'approche de Cherminon.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
-        "background": "background",
+        "background": "url('../../../assets/background/staircase_px.png')",
         "endNode": "false"
     },
     {
         "title": "Lisotem",
         "text": "Why are you hiding in the shadows, Cherminon?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "Pourquoi te caches-tu dans l'ombre, Cherminon ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "title": "Cherminon",
         "text": "Why does one wear clothes?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Cherminon",
+        "text_FR": "Pourquoi porte-t-on des vêtements ?"
     },
     {
         "title": "Lisotem",
         "text": "Right. Well, can you stand being in the same room as Pain?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "D'accord. Eh bien, peux-tu supporter d'être dans la même pièce que Pain ?",
         "portrait2": "url('../../../assets/portraits/portrait_pain.png')"
     },
     {
-        "title": "Pain",
+        "title": "Cherminon",
         "text": "How can anyone stand him? Look at him in the corner, he's the devil!",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Cherminon",
+        "text_FR": "Comment quelqu'un peut-il le supporter ? Regardez-le dans le coin, c'est le diable !",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
-        "title": "Pain",
+        "title": "Cherminon",
         "text": "How can anyone stand him? Look at him in the corner, he's the devil!",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Cherminon",
+        "text_FR": "Comment quelqu'un peut-il le supporter ? Regardez-le dans le coin, c'est le diable !",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')",
         "endNode": "true"
     }

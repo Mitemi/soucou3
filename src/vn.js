@@ -47,11 +47,11 @@ function click() {
     portrait2.style.backgroundImage = json.portrait2;
 
     if (localStorage.lang == "fr") {
-        title.textContent = json.title_FR || title.textContent;
-        text.textContent = json.text_FR || text.textContent;
+        title.textContent = json.title_FR === undefined ? title.textContent : json.title_FR;
+        text.textContent = json.text_FR === undefined ? text.textContent : json.text_FR;
     } else if (localStorage.lang == "en") {
-        title.textContent = json.title || title.textContent;
-        text.textContent = json.text || text.textContent;
+        title.textContent = json.title === undefined ? title.textContent : json.title;
+        text.textContent = json.text === undefined ? text.textContent : json.text;
     }
 
     if (json.endNode == "true") {

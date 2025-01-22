@@ -3,77 +3,77 @@
         "title": "",
         "text": "Lisotem approaches the unknown female aristocrat.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Lisotem s'approche de l'aristocrate inconnue.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')",
-        "background": "background",
+        "background": "url('../../../assets/background/staircase_px.png')",
         "endNode": "false"
     },
     {
         "title": "Lisotem",
         "text": "And who may you be?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Et qui pourriez-vous être ?"
     },
     {
         "title": "Alvart",
         "text": "Alvart of Alquart, future archduchess of the Alquart realm.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Alvart",
+        "text_FR": "Alvart d'Alquart, future archiduchesse du royaume d'Alquart."
     },
     {
         "title": "Lisotem",
         "text": "What an interesting name.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Quel nom intéressant."
     },
     {
-        "title": "",
+        "title": " ",
         "text": "Lisotem inspects her appearance briefly.",
         "title_FR": "",
-        "text_FR": ""
+        "text_FR": "Lisotem inspecte brièvement son apparence."
     },
     {
         "title": "",
         "text": "The one thing to catch Lisotem's attention is the revolver holster strapped to her thigh.",
         "title_FR": "",
-        "text_FR": ""
+        "text_FR": "La seule chose qui attire l'attention de Lisotem est l'étui de revolver attaché à sa cuisse."
     },
     {
         "title": "Lisotem",
         "text": "You know, you're the first lady I've seen with this kind of self-defence.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Vous savez, vous êtes la première dame que je vois avec ce type d'autodéfense."
     },
     {
         "title": "Alvart",
         "text": "And it can't be used for offence? What's wrong with a woman having a gun?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Alvart",
+        "text_FR": "Et cela ne peut pas être utilisé pour l'attaque ? Qu'y a-t-il de mal à ce qu'une femme ait une arme ?"
     },
     {
         "title": "Lisotem",
         "text": "It's more about the fact that I have yet to see a single person use gunpowder technology until now.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "C'est surtout que je n'ai encore vu personne utiliser la technologie de la poudre à canon jusqu'à présent."
     },
     {
         "title": "Alvart",
         "text": "Everyone has used magic for centuries at this point. With the advancements in the world, why not go for a change?",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Alvart",
+        "text_FR": "Tout le monde utilise la magie depuis des siècles maintenant. Avec les avancées dans le monde, pourquoi ne pas changer ?"
     },
     {
         "title": "Lisotem",
         "text": "I doubt your small handgun would put a dent in someone's defence like Cherminon over there.",
-        "title_FR": "",
-        "text_FR": ""
+        "title_FR": "Lisotem",
+        "text_FR": "Je doute que votre petit pistolet puisse entamer la défense de quelqu'un comme Cherminon là-bas."
     },
     {
         "title": "Alvart",
         "text": "You severly underestimate firearms.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Alvart",
+        "text_FR": "Vous sous-estimez sérieusement les armes à feu.",
         "endNode": "true"
     }
 ]

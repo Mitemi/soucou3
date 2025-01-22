@@ -3,25 +3,25 @@
         "title": "",
         "text": "As Lisotem was about to give his response, a sudden gunshot sound rings through the air.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Alors que Lisotem allait donner sa réponse, un coup de feu soudain retentit dans l'air.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "",
-        "background": "background",
+        "background": "url('../../../assets/background/staircase_px.png')",
         "endNode": "false"
     },
     {
         "title": "Alvart",
         "text": "What was that?! Was that a gunshot from the other room?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Alvart",
+        "text_FR": "Qu'est-ce que c'était ?! Était-ce un coup de feu dans l'autre pièce ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')"
     },
     {
         "title": "Cherminon",
         "text": "We should investigate, in the name of the holy Sun God.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Cherminon",
+        "text_FR": "Nous devrions enquêter, au nom du saint Dieu Soleil.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
@@ -29,7 +29,7 @@
         "title": "",
         "text": "Everyone in the room goes quiet at the mention of the Sun God. Well, perhaps the gunshot had a greater effect on the guests.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Tout le monde dans la pièce se tait à la mention du Dieu Soleil. Eh bien, peut-être que le coup de feu a eu un plus grand effet sur les invités.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
@@ -37,15 +37,16 @@
         "title": "",
         "text": "The guests enter the room.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Les invités entrent dans la pièce.",
         "portrait1": "",
-        "portrait2": ""
+        "portrait2": "",
+        "background": "url('../../../assets/background/lamproom_px.png')"
     },
     {
         "title": "",
         "text": "Some scream in horror as they witness the corpse of a woman on the floor, a bullet hole in her skull.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Certains crient d'horreur en voyant le cadavre d'une femme sur le sol, un trou de balle dans le crâne.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": ""
     },
@@ -53,7 +54,7 @@
         "title": "",
         "text": "She was one of the guests of this banquet.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Elle était l'une des invitées de ce banquet.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": ""
     },
@@ -61,111 +62,111 @@
         "title": "",
         "text": "A ivory-coloured antique revoler lies discarded on a nearby table.",
         "title_FR": "",
-        "text_FR": "",
+        "text_FR": "Un revolver antique ivoire repose abandonné sur une table voisine.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": ""
     },
     {
         "title": "The Earl",
         "text": "Alright, everyone, let's stay calm!",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Le Comte",
+        "text_FR": "D'accord, tout le monde, restons calmes !",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
     {
         "title": "Fancy-looking woman",
         "text": "Who could ever do such a thing?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Femme élégante",
+        "text_FR": "Qui pourrait faire une chose pareille ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_aida.png')"
     },
     {
         "title": "Fancy-looking man",
         "text": "...",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Homme élégant",
+        "text_FR": "...",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_vartan.png')"
     },
     {
         "title": "Cherminon",
         "text": "So, it seems we have a case of a mysterious murder before our eyes.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Cherminon",
+        "text_FR": "Donc, il semble que nous ayons un cas de meurtre mystérieux devant nos yeux.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "title": "Lisotem",
         "text": "Couldn't it be suicide?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "Cela ne pourrait-il pas être un suicide ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "title": "Cherminon",
         "text": "No.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Cherminon",
+        "text_FR": "Non.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "title": "Lisotem",
         "text": "How can you be so sure?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "Comment pouvez-vous en être si sûr ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_cherminon.png')"
     },
     {
         "title": "Fancy-looking man",
         "text": "The gun is lying on the table a meter away from the victim, with blood splatters on it, but no blood on the wall.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Homme élégant",
+        "text_FR": "Le pistolet est posé sur la table à un mètre de la victime, avec des éclaboussures de sang dessus, mais pas de sang sur le mur.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_vartan.png')"
     },
     {
         "title": "Lisotem",
         "text": "And who are you?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Lisotem",
+        "text_FR": "Et qui êtes-vous ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_vartan.png')"
     },
     {
         "title": "Fancy-looking man",
         "text": "People call me Vartan.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Homme élégant",
+        "text_FR": "Les gens m'appellent Vartan.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_vartan.png')"
     },
     {
         "title": "The Earl",
         "text": "So everyone, considering that some of us may be targeted next, how about we split into groups to investigate?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Le Comte",
+        "text_FR": "Alors tout le monde, étant donné que certains d'entre nous pourraient être les prochains visés, que diriez-vous de nous séparer en groupes pour enquêter ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
     {
         "title": "The Earl",
         "text": "Therefore, we'll get to know who is trustworthy and who dies first in their group.",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Le Comte",
+        "text_FR": "Ainsi, nous saurons qui est digne de confiance et qui mourra en premier dans son groupe.",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_earl.png')"
     },
     {
         "title": "Alvart",
         "text": "Aren't you jumping the gun here?",
-        "title_FR": "",
-        "text_FR": "",
+        "title_FR": "Alvart",
+        "text_FR": "Ne vous précipitez-vous pas un peu ?",
         "portrait1": "url('../../../assets/portraits/portrait_lisotem.png')",
         "portrait2": "url('../../../assets/portraits/portrait_alvart.png')",
         "endNode": "true"
